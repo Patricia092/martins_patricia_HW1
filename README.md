@@ -10,7 +10,7 @@
 - 📍 I am from Sao Paulo - Brazil.
 - 💗 I am a dog person.
 
-</br> </br>
+</br>
 <p align="center">
 <br>
 🖥️ HTML | CSS | JavaScript | Angular

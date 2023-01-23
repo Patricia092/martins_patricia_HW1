@@ -5,12 +5,13 @@
 
 <img src = "img/patricia_and_thor.jfif" width ="200px">
 
- 
 ## About me
-- 👩‍💻 Front-End Developer
+- 👩‍💻 Front-End Developer.
 - 📍 I am from Sao Paulo - Brazil.
 - 💗 I am a dog person.
 
-🖥️ HTML | CSS | JavaScript | Angular
 </br> </br>
+<p align="center">
+<br>
+🖥️ HTML | CSS | JavaScript | Angular
 

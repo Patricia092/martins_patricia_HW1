@@ -3,6 +3,9 @@
 <p align ="left">
  </br>
 
+<img src = "img/patricia_and_thor.jfif" width ="200px">
+
+ 
 ## About me
 - 👩‍💻 Front-End Developer
 - 📍 I am from Sao Paulo - Brazil.
